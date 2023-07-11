@@ -47,7 +47,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "## Analysis withPython"
+        "## Basic Statistics with Python (ANOVA)-Exploratory Analysis of Female Unemployment in the Labor Force"
       ],
       "metadata": {
         "id": "iIVtQv6QZAPZ"
@@ -65,7 +65,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "### Data taken from [World Bank Repository](https://colab.research.google.com/drive/1q3u7L23foalWq74TJUZO0g-c7QIjjuMn#scrollTo=W1WsOvCUb8FT&line=1&uniqifier=1)"
+        "### Data taken from [World Bank Repository]("https://data.worldbank.org/indicator/SL.UEM.TOTL.FE.ZS")
       ],
       "metadata": {
         "id": "W1WsOvCUb8FT"
